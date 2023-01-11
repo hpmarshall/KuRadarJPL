@@ -1,0 +1,6 @@
+Data   - further from the truck probe route with greater snow depth change
+Data 1 - back the same route
+Data 2 - Closer track to the truck (Pretty sure this was the first magnaprobe track)
+Data 3 - Back the same route
+Data 4 - Up and Down
+skycal - Started point at the ground and the turned to point toward the sky
