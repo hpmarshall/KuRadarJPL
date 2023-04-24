@@ -1,7 +1,13 @@
 # KuRadarJPL
 # HP Marshall, hpmarshall@boisestate.edu
 
-plotJPLradar.m = main script
+
+
+exploreWY23_UAVradar2.m = main script for April 23, 2023 results
+procJPLradar.m = function used to load, process data
+
+-----
+plotJPLradar.m =  script from January 2023
 data*.csv = radar data
 ProbeDepths.csv = manual depth measurements for cal/val
 *.png = figures 
