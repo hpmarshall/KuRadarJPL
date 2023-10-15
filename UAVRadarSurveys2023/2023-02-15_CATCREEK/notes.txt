@@ -1,0 +1,17 @@
+Cat Creek Summit Area Survey
+2023-02-15
+Arrived @ 9:30
+Parked near the first road (~2km) from the top of the pass and pulled gear down the lane a little ways
+Flew recon drone first to get auto missions correct
+- Moderate winds
+Flew radar second
+- Low winds
+Flew P4RTK last
+- High winds
+Depth probes along transect while surveying in 5 targets
+
+Radar flight notes
+f1 - fastavg=1; alt=15m; gs=3m/s
+(Low winds, super steady, hit a geo-fence and RTH before reaching end of line but got most of the way)
+f2 - fastavg=10; alt=15m; gs=3m/s
+(Low-winds, super steady)

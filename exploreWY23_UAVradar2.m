@@ -9,7 +9,7 @@ skyfile=[ddir ddir2 'skycal.csv']; % sky calibration file
 [Z,Zp,x,dist]=procJPLradar(dfile,skyfile,mrho,dsmooth,thresh,crange); % load and process data with skycal
 % plot processing comparison
 figure(1);clf
-subplot(121); imagesc(x,dist,Z,zrange); colorbar; title('original')
+subplot(121); imagesc(x,dist,Z,crange); colorbar; title('original')
 subplot(122); imagesc(x,dist,Zp,[0 2e10]); colorbar; title('sky cal, smooth, threshold')
 % plot Up-Down test
 figure(2);clf

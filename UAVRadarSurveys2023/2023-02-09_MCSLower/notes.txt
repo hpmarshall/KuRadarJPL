@@ -1,0 +1,12 @@
+2-9 MCS Lower Site
+Flights began around 10:30
+Clear skies and low winds
+Goal is to fly the same transect over three radar targets repeatedly to test the influence of fast averaging on the data quality.
+
+flight1: fastavg=1, alt=8-9m
+
+flight2: fastavg=7, 8-12m
+
+flight3: fastavg=15, 10-11m
+
+flight4: fastavg30, 10-14m

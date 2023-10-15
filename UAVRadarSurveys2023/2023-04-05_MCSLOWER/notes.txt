@@ -1,0 +1,29 @@
+04/05 Flight Notes
+MCS LOWER
+Low winds and partial cloud cover
+
+Battery 1
+No radar GPS positioning
+32.1F at surface
+Flight 1: 12:47PM flew transect , 4 targets, went too high
+
+Flight 2: 12:54PM same transect, similar weather 
+
+Flight 3: 3 targets, crossed the valley on the right, out and back
+
+Flight 4: up-down to 18m
+
+Flight 5: 1:10PM low and slow flight 2-3meter high
+
+Battery 2
+GPS Turned on
+Much higher winds
+Flight 6: 2:02 PM, low transect over targets, imitating Flight 2
+
+Flight 7: 2:07 PM fast_avg = 10 , low and slow over targets
+
+Flight 8: 2:10  up down
+
+Flight 9: fast_avg=25, same low transect
+
+Flight 10: fast_avg=25, up down , radar battery died during flight
